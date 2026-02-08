@@ -3,6 +3,7 @@
     "truffle": "5.11.5"
   },
   "resolutions": {
+    "@ensdomains/ensjs": "file:./ensjs-shim",
     "@ethereumjs/common": "3.1.0",
     "@ethereumjs/tx": "4.1.0",
     "web3": "1.10.4",
