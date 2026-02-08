@@ -6,6 +6,7 @@
     "@ensdomains/ensjs": "file:./ensjs-shim",
     "elliptic": "6.6.1",
     "form-data": "4.0.5",
+    "json-schema": "file:./json-schema-shim",
     "@ethereumjs/common": "3.1.0",
     "@ethereumjs/tx": "4.1.0",
     "web3": "1.10.4",
