@@ -1,6 +1,26 @@
 {
   "dependencies": {
-    "truffle": "5.0.35",
-    "truffle-hdwallet-provider-privkey": "^0.3.0"
+    "truffle": "5.11.5"
+  },
+  "resolutions": {
+    "@ensdomains/ensjs": "file:./ensjs-shim",
+    "elliptic": "6.6.1",
+    "form-data": "4.0.5",
+    "json-schema": "file:./json-schema-shim",
+    "@ethereumjs/common": "3.1.0",
+    "@ethereumjs/tx": "4.1.0",
+    "web3": "1.10.4",
+    "web3-bzz": "1.10.4",
+    "web3-core": "1.10.4",
+    "web3-core-helpers": "1.10.4",
+    "web3-core-method": "1.10.4",
+    "web3-core-requestmanager": "1.10.4",
+    "web3-eth": "1.10.4",
+    "web3-eth-abi": "1.10.4",
+    "web3-eth-accounts": "1.10.4",
+    "web3-eth-personal": "1.10.4",
+    "web3-net": "1.10.4",
+    "web3-shh": "1.10.4",
+    "web3-utils": "1.10.4"
   }
 }
